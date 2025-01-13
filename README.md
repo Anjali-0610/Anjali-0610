@@ -1,4 +1,4 @@
-<h1 align="center">Hey There👋, I'm Anjali  Verma</h1>
+<h1 align="center">Hey There👋, I'm Anjali Verma</h1>
 <h3 align="center">I am a passionate developer with experience in full-stack development. Currently, I am learning and expanding my knowledge in backend technologies.</h3>
 
 - 🌱 I’m currently learning **node.js**
